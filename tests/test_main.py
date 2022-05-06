@@ -1,0 +1,1 @@
+# script to test main.py - produces prediction based on new data passed to the model
