@@ -1,1 +1,10 @@
-INFO:root:train and test data read in
+2022-05-06 01:52:45 - INFO - train and test data read in
+2022-05-06 01:52:51 - INFO - outliers removed
+2022-05-06 01:52:53 - INFO - dropped Communication variable in train data
+2022-05-06 01:52:53 - INFO - train data imputed
+2022-05-06 01:52:54 - INFO - feature engineering on train data complete
+2022-05-06 04:39:52 - INFO - outliers removed
+2022-05-06 06:21:00 - INFO - dropped Communication variable in test data
+2022-05-06 06:21:00 - INFO - test data imputed
+2022-05-06 06:21:01 - INFO - feature engineering on test data complete
+2022-05-06 06:21:21 - INFO - test data scored
