@@ -2,6 +2,8 @@
 Kaggle Competition - https://www.kaggle.com/datasets/kondla/carinsurance
 
 ## Folder and File Structure
+**Data Folder** - typically hidden but shown here to persist the data
+
 **Exploratory Folder** - all code and files associated with data exploration
 
 **Model Folder** - location to persist models
