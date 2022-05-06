@@ -12,6 +12,4 @@ Kaggle Competition - https://www.kaggle.com/datasets/kondla/carinsurance
 
 **Tests Folder** - location for all test code
 
-**app-run** - this script is the main entry point for the execution of the model. This should execute ```main.py```.
-
 **requirements.txt** - details python package dependencies in this file. 
