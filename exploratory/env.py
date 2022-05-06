@@ -1,4 +1,4 @@
-# environment parameters file
+# script to store environment parameters 
 import os
 
 # set up logger
@@ -10,3 +10,9 @@ if os.path.exists(logger_path):
 # path to raw data
 train_data = r'../data/carInsurance_train.csv'
 test_data = r'../data/carInsurance_test.csv'
+
+# data folder
+data_path = r'../data/'
+
+# path to model folder
+model_path = r'../model/'
