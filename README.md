@@ -6,6 +6,8 @@ Kaggle Competition - https://www.kaggle.com/datasets/kondla/carinsurance
 
 **Exploratory Folder** - all code and files associated with data exploration
 
+**Log Folder** - stores logs
+
 **Model Folder** - location to persist models
 
 **Src Folder** - all source code for running the model should go in this folder.  The main entry point to your code should be in a file named ```main.py```.
